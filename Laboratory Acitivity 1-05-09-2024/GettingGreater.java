@@ -29,6 +29,6 @@ class GettingGreater {
         System.out.println("Showing the ASCII Codes");
         System.out.println("a : " +asciiValue);
         System.out.println("b : " +asciivalue);
-        
+        cont.close();
     }
 }
